@@ -37,7 +37,7 @@ title: Version Control
 
 In your life as a coder, you will use external libraries to help make your software development easier and faster. A library is basically a bunch of code (functions, objects, definitions) that can be reused in other coding projects. Different languages use different words for this concept. For example in Python this would be called a Package.
 
-Libraries allow for easier development applications and websites. If you haven’t discovered already, there are thousands of libraries available for you to use and the developers of these libraries are updating them all the time. It’s up to you to figure out where to find the most up-to-date version of this library is and how to use it.
+Libraries allow for easier development applications and websites. If you haven’t discovered already, there are thousands of libraries available for you to use and the developers of these libraries are updating them all the time. It’s up to you to figure out where to find the most up-to-date version of a library and how to use it.
 
 #### Where to look
 
